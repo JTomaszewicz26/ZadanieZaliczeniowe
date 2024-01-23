@@ -1,5 +1,5 @@
 # ZadanieZaliczeniowe
-GRUPA 1
+GRUPA 1<br>
 Napisz program zawierający następujące funkcje:
 1) Funkcja menu wyświetla i zezwala na wybór jednej z opcji TABLICA, FIGURA, WYRAZENIE,
 koniec działania funkcji poprzez wybór opcji KONIEC.
@@ -21,7 +21,7 @@ X>0
 x = 0
 x<0
 
-GRUPA 2
+GRUPA 2<br>
 Napisz program zawierający następujące funkcje:
 1) Funkcja menu wyświetla i zezwala na wybór jednej z opcji TABLICA, FIGURA, WYRAZENIE,
 koniec działania funkcji poprzez wybór opcji KONIEC.
